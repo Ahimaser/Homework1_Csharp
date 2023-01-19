@@ -33,7 +33,6 @@ else Console.WriteLine($"Вчисле {number} меньше 3 цифр");
 7 -> да
 1 -> нет*/
 
-string m = "Понедельник", v = "Вторник", sr= "Среда",cht= "Четверг",fr =  "Пятница",sub= "Суббота", vs= "Воскресенье";
 Console.WriteLine($"Введите номер дня недели (от 1 до 7");
 int day = Convert.ToInt32(Console.ReadLine());
 if (day > 0 && day < 8)
