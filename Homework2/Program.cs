@@ -4,12 +4,12 @@
 456 -> 5
 782 -> 8
 918 -> 1*/
-/*Console.WriteLine("Введите трехзначное число : ");
+Console.WriteLine("Введите трехзначное число : ");
 int x = Convert.ToInt32(Console.ReadLine());
 int anotherX = new Random().Next(100, 1000);
 
 Console.WriteLine($"Вторая цифра числа введенного с клавиатуры = {(x / 10) % 10}, вторая цифра рандомно числа {anotherX} = {(anotherX / 10) % 10}");
-*/
+
 
 /*Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
@@ -23,10 +23,10 @@ int number = Convert.ToInt32(Console.ReadLine());
 int count = 0;
 if (number / 100 != 0)
 {
-    int x = number;
-    while (x!=0)
+    int x1 = number;
+    while (x1!=0)
     {
-        x /= 10;
+        x1 /= 10;
         count++;
     }
     count = count - 2;

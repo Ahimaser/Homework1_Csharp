@@ -5,15 +5,19 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practice1", "CA1\practice1.csproj", "{A5BC99F6-BE98-44CE-A4E7-A9D8B24395C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework1", "Homework1\Homework1.csproj", "{B9B20617-8E26-4C6B-8C97-88485B59A5AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework1", "Homework1\Homework1.csproj", "{B9B20617-8E26-4C6B-8C97-88485B59A5AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectice2", "prectice2\prectice2.csproj", "{4222C290-4C1C-446B-84AD-A66CE0A71B70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prectice2", "prectice2\prectice2.csproj", "{4222C290-4C1C-446B-84AD-A66CE0A71B70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2", "Homework2\Homework2.csproj", "{CF82A461-AF8F-4870-BC43-92573B523E88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2", "Homework2\Homework2.csproj", "{CF82A461-AF8F-4870-BC43-92573B523E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3", "Homework3\Homework3.csproj", "{ADA7759B-3033-4A31-86E1-460358A964F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework3", "Homework3\Homework3.csproj", "{ADA7759B-3033-4A31-86E1-460358A964F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectice3", "prectice3\prectice3.csproj", "{AA486AC8-EEAB-4973-9C62-B50910FC809D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prectice3", "prectice3\prectice3.csproj", "{AA486AC8-EEAB-4973-9C62-B50910FC809D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectice4", "prectice4\prectice4.csproj", "{D99466ED-FD3F-4B4F-9104-CC4F81742A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4", "Homework4\Homework4.csproj", "{09D6F802-2268-49EE-838B-CCC32B6445A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{AA486AC8-EEAB-4973-9C62-B50910FC809D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA486AC8-EEAB-4973-9C62-B50910FC809D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA486AC8-EEAB-4973-9C62-B50910FC809D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99466ED-FD3F-4B4F-9104-CC4F81742A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99466ED-FD3F-4B4F-9104-CC4F81742A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99466ED-FD3F-4B4F-9104-CC4F81742A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99466ED-FD3F-4B4F-9104-CC4F81742A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D6F802-2268-49EE-838B-CCC32B6445A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D6F802-2268-49EE-838B-CCC32B6445A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D6F802-2268-49EE-838B-CCC32B6445A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D6F802-2268-49EE-838B-CCC32B6445A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
