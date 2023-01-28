@@ -5,7 +5,7 @@
 
 2, 4-> 16
 */
-int result_deg = 0;
+
 int degree(int A, int B)
 {
 
