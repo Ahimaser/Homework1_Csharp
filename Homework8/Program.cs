@@ -182,3 +182,25 @@ Show3DArray(arr3D);
 10 09 08 07*/
 
 Console.WriteLine("\n Задача №5 \n");
+
+int[,] arrSpiral = new int [4,4];
+/*void Arr(int[,] arr,int m, int n) 
+{
+    while (n < 4)
+    {
+        if (arr[m, n] == 0)
+        {
+            arr[m, n] = Convert.ToInt32($"{m}{n}");
+            n++;
+            Arr(arr, m, n);
+        }
+        else
+            break;
+        
+    }
+}
+arrSpiral =Arr(arrSpiral, 0, 0);
+foreach(int i in arrSpiral)
+{
+    Con
+}*/
